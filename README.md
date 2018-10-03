@@ -13,3 +13,4 @@ This is my completed student project based on this [starter repository](https://
 |JavaScript Selectors and Event Listeners | The code uses selectors to get DOM elements and user input values. The code uses event listeners to trigger grid creation, open up a color-picker, and modify the grid colors. |
 
 ### [Click here to PLAY](https://susanschen.github.io/Pixel-Art-Maker/)!
+- Credeits: (https://susanschen.github.io/Pixel-Art-Maker/)
